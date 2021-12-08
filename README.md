@@ -6,9 +6,6 @@
 
 ## [Download SIMUT for Windows 64-bit](https://people.cs.nctu.edu.tw/~chengchc/simut/simut_win64.zip)
 Extracting the zip file and run simut.exe
-## [Download SIMUT for Mac OS X](https://people.cs.nctu.edu.tw/~chengchc/simut/simut.app.zip)
-Extracting the zip file and run ***simut.app/Contents/MacOS/simut***
-
 
 ---
 
