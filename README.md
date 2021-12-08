@@ -40,5 +40,5 @@ Simulation of standard CT scan with detector element errors.
  
 Copyright © Chang-Chieh Cheng
 Information Technology Service Center
-National Chiao Tung University
+National Yang Ming Chiao Tung University
 All Rights Reserved.
